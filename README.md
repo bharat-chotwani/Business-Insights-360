@@ -1,4 +1,4 @@
-# Business Insights 360
+# ![AtliQ Hardware](https://github.com/bharat-chotwani/Business-Insights-360/blob/c7bff2ea3ea7c949d3bdbb8d92a5cf676f4cb5d7/Atliq%20A%20logo-04%20-%20Copy.png) Business Insights 360
 
 ## Project Overview
 
