@@ -1,4 +1,4 @@
-# ![AtliQ Hardware](https://github.com/bharat-chotwani/Business-Insights-360/blob/c7bff2ea3ea7c949d3bdbb8d92a5cf676f4cb5d7/Atliq%20A%20logo-04%20-%20Copy.png) Business Insights 360
+# Business Insights 360
 
 ## Project Overview
 
@@ -92,6 +92,8 @@ This structured dataset allows for **detailed business analysis** across sales, 
 
 ## Data Model
 
+![Data model](https://github.com/bharat-chotwani/Business-Insights-360/blob/2f02f89ba0ba0ffd213d71aa49d3e8399c5c3731/Data_Model.png)
+
 ### What is Data Modeling?
 - The process of organizing and structuring data to define relationships between tables.
 - Helps in creating accurate reports and performing complex calculations.
@@ -155,21 +157,28 @@ The **Home view** provides access to all available view buttons, allowing users 
 
 ### Home View
 A source page providing easy page navigation access to all views, with dedicated support pane and information manual.
+![Home View](https://github.com/bharat-chotwani/Business-Insights-360/blob/2f02f89ba0ba0ffd213d71aa49d3e8399c5c3731/Home.png)
 
 ### 1. Finance View
 Enhances financial planning and cost control, featuring a Financial P&L (Profit & Loss) Statement, Net Sales Trend and Breakdown by Products/Customers and more.
+![Finance View](https://github.com/bharat-chotwani/Business-Insights-360/blob/2f02f89ba0ba0ffd213d71aa49d3e8399c5c3731/Finance_view.png)
 
 ### 2. Sales View
 Focuses on boosting sales revenue and tracking customer performance, including Gross Margin % Variance across Customers/Products and more.
+![Sales View](https://github.com/bharat-chotwani/Business-Insights-360/blob/2f02f89ba0ba0ffd213d71aa49d3e8399c5c3731/Sales_view.png)
 
-### 3. Marketting View
+### 3. Marketing View
 Elevates brand visibility and evaluates marketing campaign ROI, with insights into Segment Performance, Net Profit % Variance across Regions and more.
+![Marketing View](https://github.com/bharat-chotwani/Business-Insights-360/blob/2f02f89ba0ba0ffd213d71aa49d3e8399c5c3731/Marketing_view.png)
 
 ### 4. Supply Chain View
 Optimizes inventory management and demand forecasting, featuring trends in Forecast Accuracy and Inventory Stock Risk by Customers/Products.
+![Supply Chain View](https://github.com/bharat-chotwani/Business-Insights-360/blob/2f02f89ba0ba0ffd213d71aa49d3e8399c5c3731/supply_chain_view.png)
 
 ### 5. Executive View
 Provides a high-level overview of organizational performance for top AtliQ executives and senior management, showcasing business KPIs, Revenue Contributions by Division/Channel, Top Customers & Products, AtliQ's Market Share Trend and more.
+![Executive View](https://github.com/bharat-chotwani/Business-Insights-360/blob/2f02f89ba0ba0ffd213d71aa49d3e8399c5c3731/Executive_view.png)
 
 ### 6. Product View
 Stakeholder's request to know the top 5 and bottom 5 products based on GM% Growth YoY and the post discounts % trend in tool-tip for each customer.
+![Product View](https://github.com/bharat-chotwani/Business-Insights-360/blob/2f02f89ba0ba0ffd213d71aa49d3e8399c5c3731/Product_view.png)
