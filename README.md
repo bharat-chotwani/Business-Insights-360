@@ -20,7 +20,7 @@ To overcome these challenges, AtliQ Hardware launched the Business Insights 360 
 
 This project enables **data-driven decision-making** and helps AtliQ Hardware **stay competitive** in the market.
 
-### [Business Insights Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMWE4NzhjMDctMjk3Ni00MmFhLTlmM2QtYThiMTFmYjFiMmVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+### [Business Insights Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMWE4NzhjMDctMjk3Ni00MmFhLTlmM2QtYThiMTFmYjFiMmVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=f3a58f2fe8090a3e9706)
 ### [Project Explanation](https://www.youtube.com/embed/IvlPC9Vq5sg?si)
 ### [Linkedin Post](https://www.linkedin.com/posts/bharatchotwani_business-insights-project-pdf-activity-7296173874465894400-zxXA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADM4aokB6N7ZE70j2pv_sEK2dOUT-I2Lf6Q)
 
