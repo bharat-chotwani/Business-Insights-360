@@ -94,7 +94,7 @@ This structured dataset allows for **detailed business analysis** across sales, 
 
 ## Data Model
 
-![Data model](https://github.com/bharat-chotwani/Business-Insights-360/blob/2f02f89ba0ba0ffd213d71aa49d3e8399c5c3731/Data_Model.png)
+![Data model](https://github.com/bharat-chotwani/Business-Insights-360/blob/badaa6eb919f231b20ab8a62a28901e49ad240e0/Data_Model_.png)
 
 ### What is Data Modeling?
 - The process of organizing and structuring data to define relationships between tables.
